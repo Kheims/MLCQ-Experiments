@@ -47,6 +47,12 @@ All the results will be stored to their corresponding log files.
 
 ## Acknowledgments
 
+Authors : 
+- Djamel Mesbah ( djamel.mesbah@adservio.fr/djamel.mesbah@universite-paris-saclay.fr)
+- Nour El Madhoun ( nour.el-madhoun@isep.fr)
+- Hani Chalouati ( hani.chalouati@adservio.fr )
+- Khaldoun Al Agha  (alagha@lri.fr)
+
 This work relies on:
 - The [MLCQ dataset](https://zenodo.org/records/3590102)
 - The [Designite tool](https://www.designite-tools.com/)
