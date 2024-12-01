@@ -1,7 +1,7 @@
 This is the repository for the experiments of the paper "Exploring NLP Techniques for Code Smell Detection: A Comparative Study." The study compares various NLP-based models for detecting code smells to a baseline model, highlighting their strengths and weaknesses.
 
 # Disclaimer
-This research was conducted as part of a CIFRE doctoral program (Convention Industrielle de Formation par la Recherche) in collaboration with [Adservio]. The findings and methodology described in this work are proprietary to [Adservio], reflecting their commitment to advancing industrial research.
+This research was conducted as part of a CIFRE doctoral program (Convention Industrielle de Formation par la Recherche) in collaboration with [Adservio](https://fr.adservio.fr/), [Universite Paris-Saclay](https://www.universite-paris-saclay.fr/) and [ISEP](https://www.isep.fr/). 
 
 
 ## Prerequisites
